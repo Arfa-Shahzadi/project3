@@ -34,7 +34,7 @@ import re
 import streamlit as st
 
 # page styleing 
-st.set_page_config(page_title="password strenght checker", page_icon="🌘", layout="centerd")
+st.set_page_config(page_title="password strenght checker", page_icon="🌘", layout="centered")
 # custom css
 st.markdowwn("""
 <style>
